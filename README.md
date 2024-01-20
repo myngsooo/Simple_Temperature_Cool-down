@@ -1,6 +1,6 @@
 # Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning
 ----
-This repo contains implementation of [Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning]().
+This repo contains implementation of [Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning](). Our code is mainly based on the code of [SimCSE](https://arxiv.org/abs/2104.08821). Please refer to their [repository](https://github.com/princeton-nlp/SimCSE) for more detailed information.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
