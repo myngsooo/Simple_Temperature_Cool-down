@@ -16,7 +16,7 @@ from transformers.file_utils import (
                                       replace_return_docstrings,
                                     )
 from transformers.modeling_outputs import SequenceClassifierOutput, BaseModelOutputWithPoolingAndCrossAttentions
-from simcse.loss import *
+from src.loss import *
 
 class MLPLayer(nn.Module):
     """
