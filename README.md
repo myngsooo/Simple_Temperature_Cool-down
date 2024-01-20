@@ -90,3 +90,6 @@ python evaluation.py \
 
 For more detailed information, please check [SimCSE's GitHub repo](https://github.com/princeton-nlp/SimCSE).
 
+## Citation
+
+Please cite our paper if you use Temperature Cooldown in your work:
