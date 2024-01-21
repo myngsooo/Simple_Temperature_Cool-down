@@ -53,7 +53,7 @@ bash download.sh
 python train.py \
     --model_name_or_path bert-base-uncased \
     --train_file data/wiki1m_for_simcse.txt \
-    --output_dir result/unsupervised_tc \
+    --output_dir <output_model_dir> \
     --num_train_epochs 1 \
     --per_device_train_batch_size 64 \
     --learning_rate 3e-5 \
