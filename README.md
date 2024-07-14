@@ -92,4 +92,12 @@ For more detailed information, please check [SimCSE's GitHub repo](https://githu
 
 ## Citation
 
-Please cite our paper if you use Temperature Cooldown in your work:
+```
+@inproceedings{jeong2024simple,
+  title={Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning},
+  author={Jeong, Yoo Hyun and Han, Myeong Soo and Chae, Dong-Kyu},
+  booktitle={Findings of the Association for Computational Linguistics: EACL 2024},
+  pages={550--559},
+  year={2024}
+}
+```
